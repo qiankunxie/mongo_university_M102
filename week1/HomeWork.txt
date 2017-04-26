@@ -12,7 +12,7 @@ What do you get as a result?
 
 ANS : 16777216
 
-=====================================================
+======================================================
 Homework: Homework 1.2
 
 Download the handout. Take a look at its content.
